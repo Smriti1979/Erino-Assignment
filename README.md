@@ -125,19 +125,4 @@ npm start
 - **Challenge:** Efficiently displaying large datasets.
 - **Solution:** Implemented server-side pagination and sorting logic, reducing load on the frontend.
 
-### **3. Button Centering in UI**
-- **Challenge:** Aligning the "Add Contact" button at the center while ensuring responsiveness.
-- **Solution:** Used `flexbox` with `justifyContent: 'center'` to achieve consistent centering.
 
----
-
-## **Evaluation Criteria**
-
-1. **Functionality:** Fully implemented CRUD operations.
-2. **UI Consistency:** Clean, intuitive, and responsive interface using Material UI.
-3. **Code Quality:** Modular codebase adhering to best practices.
-4. **Problem-Solving:** Demonstrated ability to identify and resolve challenges independently.
-
----
-
-Feel free to ask for modifications or enhancements to this README!
